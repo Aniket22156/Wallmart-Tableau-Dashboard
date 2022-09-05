@@ -1,7 +1,7 @@
 
-# Wallmart Tableau Dashboard
+# Walmart Tableau Dashboard
 
-I created a user-friendly and simple-to-understand Dashboard using a Wallmart dataset.
+I created a user-friendly and simple-to-understand Dashboard using a Walmart dataset.
 
 ![Dashboard 1-2](https://user-images.githubusercontent.com/69108762/188300084-f417c684-40d5-4b0a-8fbb-68523a639878.png)
 
